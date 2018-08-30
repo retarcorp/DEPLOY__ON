@@ -11,7 +11,7 @@
                 :class="{'button--disabled': !isFormValid}"
                 :disabled="!isFormValid">Регистрация</button>
         </div>
-        <p class="form__question">Уже есть аккаунт? <nuxt-link to="/Registratsia" class="link">Войти</nuxt-link></p>
+        <p class="form__question">Уже есть аккаунт? <nuxt-link to="/Vhod" class="link">Войти</nuxt-link></p>
     </form>
 </template>
 
